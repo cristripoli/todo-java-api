@@ -4,3 +4,7 @@ bin
 build
 .classpath
 .project
+.idea
+.iml
+.ipr
+.iws
